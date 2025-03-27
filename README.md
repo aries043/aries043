@@ -40,3 +40,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
+
+<!-- 사용한 언어 순위 카드 -->
+## 📚 Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aries043&layout=compact&theme=algolia)
+
