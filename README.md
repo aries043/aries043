@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=300&section=header&text=Aries%20✨&fontColor=ffffff)
 
 <!-- Contact -->
-<p align="center"><b> 🌏Contact </b></p>
+<h2 align="center">🌏 Contact</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/aries043@chungbuk.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://www.instagram.com/chanwo_ownahc/">
