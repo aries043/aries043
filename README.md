@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=300&section=header&text=Aries%20✨&fontColor=ffffff)
 
 <!-- Contact -->
-<p align="center">## 🌏Contact </p>
+<p align="center"><b> 🌏Contact </b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/aries043@chungbuk.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://www.instagram.com/chanwo_ownahc/">
@@ -16,6 +16,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1AA0F7&background=FF30BB00&width=435&lines=Department+of+Computer+Engineering)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1AA0F7&background=FF30BB00&width=435&lines=Chungbuk+National+University)](https://git.io/typing-svg)
+
+<hr>
 
 <!-- 기술 스택 -->
 ## 💻 Tech Stacks
@@ -40,6 +42,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
+
+<hr>
 
 <!-- 사용한 언어 순위 카드 -->
 ## 📚 Language
