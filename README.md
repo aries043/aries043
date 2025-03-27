@@ -8,6 +8,10 @@
 <p align="center">💻Contact</p>
 <p align="center">
   <img src="https://img.shields.io/badge/aries043@chungbuk.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  <a href="https://www.instagram.com/chanwo_ownahc/"><img src="https://img.shields.io/badge/Instagram?style=flat-square&logo=instagram&logoColor=#FF0069"/></a>
-  <a href="https://velog.io/@aries2_0423/"><img src="https://img.shields.io/badge/Velog?style=flat-square&logo=velog&logoColor=#20C997"/></a>
+  <a href="https://www.instagram.com/chanwo_ownahc/">
+    <img src="https://img.shields.io/badge/Instagram-EA4335?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@aries2_0423/">
+    <img src="https://img.shields.io/badge/Velog-EA4335?style=flat-square&logo=velog&logoColor=white"/>
+  </a>
 </p>
