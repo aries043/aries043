@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/aries043@chungbuk.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://www.instagram.com/chanwo_ownahc/">
-    <img src="https://img.shields.io/badge/Instagram-EA4335?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://velog.io/@aries2_0423/">
-    <img src="https://img.shields.io/badge/Velog-EA4335?style=flat-square&logo=velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
 </p>
