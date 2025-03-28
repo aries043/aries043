@@ -45,9 +45,7 @@
 
 <!-- 사용한 언어 순위 카드 -->
 ## 📚 Language
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aries043&layout=compact&theme=algolia)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aries043&layout=compact&theme=algolia)
 
 <!-- 학습 매체 -->
 ## ✏️ Education
