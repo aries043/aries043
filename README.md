@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=200&section=header&height=150" width="100%" />
 
-<p align="center"> # Aries✨ </p>
+<h1 align="center"> Aries✨ </h1>
 
 <!-- Contact -->
 <h2 align="center">🌏 Contact</h2>
