@@ -14,9 +14,9 @@
 </p>
 
 <!-- Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=white&background=FF30BB00&width=435&lines=Department+of+Computer+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&background=FF30BB00&width=435&lines=Department+of+Computer+Engineering)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=white&background=FF30BB00&width=435&lines=Chungbuk+National+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&background=FF30BB00&width=435&lines=Chungbuk+National+University)](https://git.io/typing-svg)
 
 <!-- 기술 스택 -->
 ## 💻 Tech Stacks
