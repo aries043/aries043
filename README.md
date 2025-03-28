@@ -18,8 +18,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&background=FF30BB00&width=435&lines=Chungbuk+National+University)](https://git.io/typing-svg)
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="60%" />
-
 <!-- 기술 스택 -->
 ## 💻 Tech Stacks
 <p>
@@ -46,6 +44,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="60%" />
 
 <!-- 사용한 언어 순위 카드 -->
 ## 📚 Language
