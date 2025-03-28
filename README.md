@@ -49,6 +49,7 @@
 
 <!-- 학습 매체 -->
 ## ✏️ Education
-<p align=center>
+<p>
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=udemy&logoColor=white"/>
 </p>
