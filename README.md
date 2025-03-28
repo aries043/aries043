@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=200&section=header&height=150" width="100%" />
 
-# Aries✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=200&section=footer&height=150" width="100%" />
+<p align="center"> # Aries✨ </p>
 
 <!-- Contact -->
 <h2 align="center">🌏 Contact</h2>
@@ -49,7 +47,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=200&section=footer&height=150" width="100%" />
 
 <!-- 사용한 언어 순위 카드 -->
 ## 📚 Language
