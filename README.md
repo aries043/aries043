@@ -2,7 +2,6 @@
 
 <h1 align="center"> Aries✨ </h1>
 
-<!-- Contact -->
 <h2 align="center">🌏 Contact</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/aries043@chungbuk.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
