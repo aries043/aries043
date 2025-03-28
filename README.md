@@ -1,7 +1,7 @@
 <!-- 상단 배너 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&customColorList=10&height=300&section=header&text=Aries%E2%9C%A8&desc=No%20pain%2C%20No%20gain!&fontSize=70&descSize=30&animation=scaleIn&font=Comic%20Sans%20MS" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&customColorList=10&height=300&section=header&text=Aries%E2%9C%A8&desc=No%20pain%2C%20No%20gain!&fontSize=70&descSize=30&textY=60&descY=120&animation=scaleIn&font=Comic%20Sans%20MS" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&customColorList=10&height=300&section=header&text=Aries%E2%9C%A8&desc=No%20pain%2C%20No%20gain!&fontSize=70&descSize=30&textY=30&descY=90&animation=scaleIn&font=Comic%20Sans%20MS" width="100%"/>
 
 
 ## 🌏 Contact
