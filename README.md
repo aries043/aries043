@@ -57,5 +57,3 @@
 <p align=center>
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=200&section=footer&height=150" width="100%" />
