@@ -1,13 +1,5 @@
 <!-- 상단 배너 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=250&section=header&text=Aries%E2%9C%A8&fontSize=90&animation=fadeIn" width="100%"/>
-
-<!-- 기울어진 slice 배경만 사용 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=250&section=header" width="100%"/>
-
-<!-- 텍스트는 기울어진 텍스트 이미지로 제작해서 <img>로 삽입 -->
-<img src="https://your-image-url.com/angled-aries-text.png" width="300px" style="margin-top: -180px;" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=Aries%E2%9C%A8&fontSize=90&animation=fadeIn" width="100%"/>
 
 ## 🌏 Contact
 <p>
