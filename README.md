@@ -1,5 +1,5 @@
 <!-- 상단 배너 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=No%20pain%2C%20No%20gain%E2%9C%A8&fontSize=50&animation=fadeIn&font=Comic%20Sans%20MS" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=10&height=250&section=header&text=No%20pain%2C%20No%20gain%E2%9C%A8&fontSize=50&animation=fadeIn&font=Comic%20Sans%20MS" width="100%"/>
 
 ## 🌏 Contact
 <p>
