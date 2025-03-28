@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=300&section=header&height=150" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=200&section=header&height=150" />
 <h1 align="center"> Aries✨ </h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=300&section=footer&height=150" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=200&section=footer&height=150" />
 
 <!-- Contact -->
 <h2 align="center">🌏 Contact</h2>
