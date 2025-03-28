@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fluter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
