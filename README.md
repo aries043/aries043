@@ -1,9 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=Aries%E2%9C%A8&fontSize=90&animation=fadeIn" width="100%"/>
 <!-- 상단 배너 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=Aries%E2%9C%A8&fontSize=90&animation=fadeIn" width="100%"/>
-
-<!-- 작은 글씨 추가 -->
-<p align="center" style="font-size: 20px; margin-top: -30px;">No pain, No gain</p>
 
 
 ## 🌏 Contact
