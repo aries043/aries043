@@ -1,6 +1,9 @@
 <!-- 상단 배너 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&customColorList=10&height=250&section=header&text=No%20pain%2C%20No%20gain%E2%9C%A8&fontSize=50&animation=scaleIn&font=Comic%20Sans%20MS" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&customColorList=10&height=250&section=header&text=Aries%E2%9C%A8&desc=No%20pain%2C%20No%20gain!&fontSize=50&descSize=20&animation=scaleIn&font=Comic%20Sans%20MS" width="100%"/>
+
+
 ## 🌏 Contact
 <p>
   <img src="https://img.shields.io/badge/aries043@chungbuk.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
