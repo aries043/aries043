@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
-
 <!-- 상단 배너 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&customColorList=10&height=200&section=header&text=Aries%E2%9C%A8&desc=No%20pain%2C%20No%20gain!&fontSize=70&descSize=20&animation=scaleIn&fontColor=FFFFFF&fontAlignY=43&descAlign=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&customColorList=10&height=200&section=header&text=Aries%E2%9C%A8&desc=No%20pain%2C%20No%20gain!&fontSize=70&descSize=20&animation=scaleIn&fontColor=FFFFFF&fontAlignY=43&descAlign=55&rotate=-90" width="100%"/>
 
 ## 🌏 Contact
 <p>
