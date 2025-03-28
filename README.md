@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=200&section=header&test=Aries✨%20&height=150" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=200&section=header&text=Aries%E2%9C%A8&fontSize=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=Aries&fontSize=90&animation=fadeIn" />
 
 ## 🌏 Contact
 <p>
