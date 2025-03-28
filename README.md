@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=300&section=header&height=150&text=Aries%20✨&fontAlignY=200&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=300&section=header&height=150" />
+<h2 align="center"> Aries✨ </h2>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2C74B3&height=300&section=footer&height=150" />
 
 <!-- Contact -->
