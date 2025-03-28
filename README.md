@@ -18,7 +18,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&background=FF30BB00&width=435&lines=Chungbuk+National+University)](https://git.io/typing-svg)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+[!](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- 기술 스택 -->
 ## 💻 Tech Stacks
