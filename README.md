@@ -3,7 +3,7 @@
 <h1 align="center"> Aries✨ </h1>
 
 ## 🌏 Contact
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/aries043@chungbuk.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://www.instagram.com/chanwo_ownahc/">
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white"/>
