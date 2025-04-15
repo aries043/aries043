@@ -45,11 +45,13 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="60%" />
-
 <!-- 사용한 언어 순위 카드 -->
 ## 📚 Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aries043&layout=compact&theme=algolia)
+
+<!-- 기여 -->
+## 👓 3D Contribute
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="60%" />
 
 <!-- 학습 매체 -->
 ## ✏️ Education
